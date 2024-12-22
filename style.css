@@ -1,5 +1,5 @@
 .bg-custom {
-    background-image: url("/asets/WhatsApp\ Image\ 2024-12-19\ at\ 9.03.21\ PM.jpeg");
+    background-image: url("./asets/WhatsApp\ Image\ 2024-12-19\ at\ 9.03.21\ PM.jpeg");
     background-size: cover;
     background-position: center;
     height: 100vh; /* Ensure the section takes full viewport height */
